@@ -1,1 +1,2 @@
-
+      <script id='v-chat-widget' src='https://chat-widget.vonage.com/index.js?widget_id=117e2d91-e287-4714-b9a4-2a45ab7c1b62&chat_title=Ask+Me+Anything&chat_subtitle=Powered+By+Vonage+AI&company_name=AnyQ&initial_message=Please+type+start+to+wake+up+AnyQ&primary_color=#D2D2D2'></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
